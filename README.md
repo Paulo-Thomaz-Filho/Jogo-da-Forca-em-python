@@ -1,8 +1,3 @@
-Aqui está o conteúdo formatado e otimizado especificamente para o padrão de um **README.md** de alta qualidade para o GitHub.
-
-Você pode copiar o código abaixo (incluindo as marcações de Markdown) e colar direto no seu arquivo `README.md`.
-
-```markdown
 # 🎮 Jogo das Palavras (Termo Super Difícil)
 
 ![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)
