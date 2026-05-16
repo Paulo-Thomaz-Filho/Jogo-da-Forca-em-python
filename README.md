@@ -96,9 +96,6 @@ palavra_oculta = "".join(
 
 ```
 
-
-
-```
   Utiliza *List Comprehension* para iterar por cada caractere da resposta. Se a letra já foi adivinhada ou for um caractere especial, ela é mantida; caso contrário, é substituída por `*`.
 
 * **Tratamento de Inputs e Validações:** O código faz três checagens cruciais antes de processar a jogada:
