@@ -131,5 +131,14 @@ while True:
 
 Um loop infinito (`while True`) garante que, após o término de uma partida (ganhando ou perdendo), o jogador possa escolher se deseja iniciar um novo jogo digitando `s` ou encerrar o programa digitando qualquer outra tecla.
 
+## Autores:
+Enzo Costa Gomes - Enzo838
+wallyson johnny da Silva Siqueira - wallysonjoh
+Felipe da Silva - 
+Bruno da Silva Salazar Pardo - brunosalazarse-lgtm
+kauan -
+Paulo Thomaz Filho - Paulo-Thomaz-Filho
+
+
 
 ```
