@@ -5,7 +5,7 @@
 
 Um jogo de adivinhação de palavras baseado em texto, desenvolvido em Python. O objetivo é descobrir a palavra oculta antes que suas chances se esgotem, no menor tempo possível. 
 
-O jogo conta com um banco de palavras variado e desafiador, incluindo termos complexos, expressões com espaços e hifens, exigência de acentuação gráfica correta e um sistema integrado de recordes (*ranking*) baseado no tempo de conclusão.
+O jogo conta com um banco de palavras variado e desafiador, incluindo termos complexos, expressões com espaços e hifens, exigência de acentuação gráfica correta e um sistema integrado de recordes (*ranking*) locais, baseado no tempo de conclusão.
 
 ---
 
